@@ -5,8 +5,8 @@ Este proyecto consiste en el diseño, desarrollo y validación de un Vehículo O
 Este repositorio contiene los archivos principales del Trabajo Fin de Grado sobre el diseño y desarrollo de un **Vehículo Operado Remotamente (ROV)**.
 
 ## 📂 Contenido
-- **/cad** → Modelos 3D en formato `.stl`.  
-- **/docs** → Esquemáticos eléctricos y documentación técnica.    
+- **/CAD** → Modelos 3D en formato `.stl`.  
+- **/Esquemático** → Esquema eléctrico.  
 - **README.md** → Descripción del repositorio.  
 
 ## 📖 Descripción
